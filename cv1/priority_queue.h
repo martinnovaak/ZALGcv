@@ -9,6 +9,7 @@ class priority_queue
 private:
     struct node{
         T data;
+        P priority;
         node * next;
     };
 public:
