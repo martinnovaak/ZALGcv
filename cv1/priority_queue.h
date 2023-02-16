@@ -1,56 +1,42 @@
-#ifndef CV1_QUEUE_H
-#define CV1_QUEUE_H
+#ifndef CV1_PRIORITY_QUEUE_H
+#define CV1_PRIORITY_QUEUE_H
 
-namespace ll {
-    // dopredna deklarace sablonove tridy queue
-    template <typename T> class queue;
-}
+using T = int; // hodnota vkladana do prioritni fronty
+using P = int; // priorita
 
-template <typename T>
-class ll::queue{
+class priority_queue
+{
 private:
-    // deklarace struktury node - prvek
-    // nachazi se v private casti tridy, protoze nechceme aby o deklaraci vedeli jini uzivatele
     struct node{
         T data;
         node * next;
     };
 public:
     // konstruktor tridy, pri vytvoreni instance chceme aby headpointer i tailpointer ukazovali na nullptr
-    queue()
+    priority_queue()
     {
         head = tail = nullptr;
         length = 0;
     }
 
-    // alternativne muzeme napsat to same nasledovne:
-    // queue() : head(nullptr), tail(nullptr), length(0) {}
-
     // destruktor, pri zaniku instance chceme uvolnit vsechnu dynamicky alokovanou pamet
-    ~queue()
+    ~priority_queue()
     {
-        while(!empty())  // Dokud neni spojovy seznam (fronta) prazdny,
+        while(!empty())  // Dokud neni spojovy seznam (prioritni fronta) prazdny,
         {
             pop();       // mazeme prvky.
         }
     }
 
-    // metoda pro vlozeni prvku do fronty
-    // prvek vlozime na konec spojoveho seznamu (fronty)
-    void push(T value)
+    // metoda pro vlozeni prvku do prioritni fronty
+    // prvek vlozime do seznamu (prioritni fronty) na "spravne misto"
+    // to znamena, ze nejvetsi prvky (prvky s nejvetsi prioritou) davame na zacatek seznamu (fronty)
+    // a na konec fronty naopak vkladame prvky s nejmensi hodnotou
+    void push(T value, P priority)
     {
-        // vytvorime novy prvek s hodnotou value, ukazatel na dalsi prvek bude ukazovat na nullptr, protoze prvek bude na konci seznamu
-        node * pom = new node{value, nullptr};
-        if(length != 0) // neni-li seznam prazdny -> je novy prvek nasledujici prvek ocasu
-        {
-            tail->next = pom;
-        }
-        else  // je-li delka seznamu 0, vkladame prvek na zacatek seznamu - tedy novy prvek == hlava
-        {
-            head = pom;
-        }
-        tail = pom; // novy prvek bude nove ocasem
-        length++;
+        /*
+         TODO
+         */
     }
 
     // pop smaze prvni prvek ze seznamu (fronty)
@@ -81,12 +67,10 @@ public:
     {
         return length == 0;
     }
-
 private:
     node * head; // ukazatel na prvni prvek
     node * tail; // ukazatel na posledni prvek
     unsigned int length; // pocet prvku
 };
 
-
-#endif //CV1_QUEUE_H
+#endif //CV1_PRIORITY_QUEUE_H
