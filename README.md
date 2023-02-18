@@ -6,7 +6,9 @@ Bude upřesněno
 
 ## Gisty na programy z hodin
 
-[Gist obsahující šablonové implementace Fronty a Zásobníku](https://gist.github.com/martinnovaak/6617749869d7549c138074477d40eee3)
+[Šablonové implementace Fronty a Zásobníku](https://gist.github.com/martinnovaak/6617749869d7549c138074477d40eee3)
+
+[Šablonová implementace Vektoru](https://gist.github.com/martinnovaak/7df4e37a710844ebd30d5d87329d9642)
 
 ## Užitečné gisty a odkazy
 
