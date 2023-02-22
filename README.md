@@ -9,6 +9,11 @@
 ## Podmínky udělení zápočtu
 Bude upřesněno
 ## Témata zápočtových prací
+
+### 1) Vektorové datové struktury std::hive (plf::colony), std::deque
+
+### 2) Vyhledávací seznamové struktury Skip List a Self-ordering list
+
 Bude upřesněno
 
 ## Gisty na programy z hodin
