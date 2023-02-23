@@ -10,7 +10,7 @@
 Bude upřesněno
 ## Témata zápočtových prací
 
-### 1) Vektorové datové struktury std::hive (plf::colony), std::deque
+### 1) Vektorové datové struktury std::hive (plf::colony), std::deque - ZAMLUVENO
 
 ### 2) Vyhledávací seznamové struktury Skip List a Self-ordering list
 
