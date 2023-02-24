@@ -2,7 +2,7 @@
 
 ## Obsah cvičení
 ### [1. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv1) Lineární kontejnery (spojový seznam, vektor, obousměrná fronta) a adaptéry (zásobník, fronta a prioritní fronta)
-### 2. cvičení Binární vyhledávací stromy - rekurzivní implementace
+### [2. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv2) Binární vyhledávací stromy - rekurzivní implementace
 ### 3. cvičení Binární vyhledávací stromy - iterativní implementace
 ### 4. cvičení Hešovací tabulky
 
