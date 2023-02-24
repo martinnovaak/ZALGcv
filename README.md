@@ -10,9 +10,25 @@
 Bude upřesněno
 ## Témata zápočtových prací
 
-### 1) Vektorové datové struktury std::hive (plf::colony), std::deque - ZAMLUVENO
+### Lineární datové struktury
 
-### 2) Vyhledávací seznamové struktury Skip List a Self-ordering list
+#### 1) Vektorové datové struktury std::hive (plf::colony), std::deque - ZAMLUVENO
+
+#### 2) Vyhledávací seznamové struktury Skip List a Self-ordering list
+
+### Nelineární datové struktury
+
+Bude upřesněno
+
+### Grafové algoritmy
+
+Bude upřesněno
+
+### Seminumerické algoritmy a datové struktury
+
+Bude upřesněno
+
+### Problémy řešené přes metody návrhů algoritmů
 
 Bude upřesněno
 
