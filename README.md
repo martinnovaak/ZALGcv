@@ -11,6 +11,8 @@ Může být později pozměněno / doplněno
 
 Zápočtový program nahrajete do repozitáře (Github, Gitlab, Bitbucket, ...). Repozitář bude obsahovat README soubor a soubor s podrobným popisem (seznámením) řešeného problému. Info k souborům [zde](https://gist.github.com/martinnovaak/9ab3ea05f277dcfa50fd383077ac63af)
 
+---
+
 ## Témata zápočtových prací
 
 ### Lineární datové struktury
@@ -19,7 +21,12 @@ Zápočtový program nahrajete do repozitáře (Github, Gitlab, Bitbucket, ...).
 
 #### 2) Vyhledávací seznamové struktury Skip List a Self-ordering list
 
-### Nelineární datové struktury
+### Nelineární datové struktury - Vyvážené binární vyhledávací stromy
+
+#### 3) AVL Tree
+
+#### 4) Red-Black Tree
+
 
 Bude upřesněno
 
