@@ -23,9 +23,9 @@ Zápočtový program nahrajete do repozitáře (Github, Gitlab, Bitbucket, ...).
 
 ### Nelineární datové struktury - Vyvážené binární vyhledávací stromy
 
-#### 3) AVL Tree
+#### 3) AVL Tree (std::map přes AVL)
 
-#### 4) Red-Black Tree
+#### 4) Red-Black Tree (std::map přes RB)
 
 
 Bude upřesněno
