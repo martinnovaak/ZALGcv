@@ -19,7 +19,7 @@ Zápočtový program nahrajete do repozitáře (Github, Gitlab, Bitbucket, ...).
 
 #### 1) Vektorové datové struktury std::hive (plf::colony), std::deque - ZAMLUVENO
 
-#### 2) Vyhledávací seznamové struktury Skip List a Self-ordering list
+#### 2) Vyhledávací seznamové struktury Skip List a Self-organizing list
 
 ### Nelineární datové struktury - Vyvážené binární vyhledávací stromy
 
