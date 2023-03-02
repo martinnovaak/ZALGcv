@@ -19,13 +19,13 @@ Zápočtový program nahrajete do repozitáře (Github, Gitlab, Bitbucket, ...).
 
 #### 1) Vektorové datové struktury std::hive (plf::colony), std::deque - ZAMLUVENO
 
-#### 2) Vyhledávací seznamové struktury Skip List a Self-organizing list
+#### 2) Vyhledávací seznamové struktury Skip List a Self-organizing list - ZAMLUVENO
 
-### Nelineární datové struktury - Vyvážené binární vyhledávací stromy
+### Nelineární datové struktury - Vyvážené binární vyhledávací stromy 
 
-#### 3) AVL Tree (std::map přes AVL)
+#### 3) AVL Tree (std::map přes AVL) - ZAMLUVENO
 
-#### 4) Red-Black Tree (std::map přes RB)
+#### 4) Red-Black Tree (std::map přes RB) - ZAMLUVENO
 
 
 Bude upřesněno
