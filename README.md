@@ -27,6 +27,12 @@ Zápočtový program nahrajete do repozitáře (Github, Gitlab, Bitbucket, ...).
 
 #### 4) Red-Black Tree (std::map přes RB) - ZAMLUVENO
 
+### Nelineární datové struktury - stromy
+
+#### 5) B-Tree (std::map přes B-Tree)
+
+#### 6) Trie a Suffix-tree (compressed Trie) a jejich využití jako Hešová tabulka, Slovník a pro lexikografické třídění
+
 
 Bude upřesněno
 
