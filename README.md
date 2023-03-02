@@ -48,6 +48,8 @@ Bude upřesněno
 
 [Šablonová implementace Vektoru](https://gist.github.com/martinnovaak/7df4e37a710844ebd30d5d87329d9642)
 
+[Strom](https://gist.github.com/martinnovaak/ebc629520ce818b86c266c1a2f8f5eb1)
+
 ## Užitečné gisty a odkazy
 
 [Gist na to jak v c++ generovat náhodné čísla a měřit čas trvání funkcí.](https://gist.github.com/martinnovaak/c05999dc306db538b7c98974cca93aa8)
