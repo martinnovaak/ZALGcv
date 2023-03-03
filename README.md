@@ -38,11 +38,17 @@ Bude upřesněno
 
 ### Grafové algoritmy
 
-Bude upřesněno
+Minimální kostra grafu - Bude upřesněno
+
+Obarvování grafu - Bude upřesněno
+
+Maximální tok v síti - Bude upřesněno
+
+Nejkratší cesta v grafu - Bude upřesněno
 
 ### Seminumerické algoritmy a datové struktury
 
-Bude upřesněno
+Knihovna pro počítání s velkými čísly - Bude upřesněno
 
 ### Problémy řešené přes metody návrhů algoritmů
 
