@@ -60,7 +60,7 @@ Bude upřesněno
 
 [Šablonová implementace Vektoru](https://gist.github.com/martinnovaak/7df4e37a710844ebd30d5d87329d9642)
 
-[Strom](https://gist.github.com/martinnovaak/ebc629520ce818b86c266c1a2f8f5eb1)
+[Binární strom pro ukládání klíčů](https://gist.github.com/martinnovaak/23dfe3af1849e8882fe199801d9f3774)
 
 ## Užitečné gisty a odkazy
 
