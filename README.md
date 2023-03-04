@@ -62,6 +62,8 @@ Bude upřesněno
 
 [Binární strom pro ukládání klíčů](https://gist.github.com/martinnovaak/23dfe3af1849e8882fe199801d9f3774)
 
+[Binární strom jako slovník (ukládání dvojic klíč-hodnota)](https://gist.github.com/martinnovaak/9351e3167d2ecfba1fa11d9722ca6357)
+
 ## Užitečné gisty a odkazy
 
 [Gist na to jak v c++ generovat náhodné čísla a měřit čas trvání funkcí.](https://gist.github.com/martinnovaak/c05999dc306db538b7c98974cca93aa8)
