@@ -52,7 +52,7 @@ Knihovna pro počítání s velkými čísly - Bude upřesněno
 
 ### Problémy řešené přes metody návrhů algoritmů
 
-Bude upřesněno
+MineSweeper (Flood Fill algorithm)
 
 ## Gisty na programy z hodin
 
