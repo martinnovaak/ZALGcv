@@ -29,9 +29,11 @@ Zápočtový program nahrajete do repozitáře (Github, Gitlab, Bitbucket, ...).
 
 ### Nelineární datové struktury - stromy
 
-#### 5) B-Tree (std::map přes B-Tree)
+#### 5) Fibonacciho halda
 
-#### 6) Trie a Suffix-tree (compressed Trie) a jejich využití jako Hešová tabulka, Slovník a pro lexikografické třídění
+#### 6) B-Tree (std::map přes B-Tree)
+
+#### 7) Trie a Suffix-tree (compressed Trie) a jejich využití jako Hešová tabulka, Slovník a pro lexikografické třídění
 
 
 Bude upřesněno
