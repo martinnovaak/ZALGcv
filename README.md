@@ -36,6 +36,8 @@ Zápočtový program nahrajete do repozitáře (Github, Gitlab, Bitbucket, ...).
 
 #### 7) Trie a Suffix-tree (compressed Trie) a jejich využití jako Hešová tabulka, Slovník a pro lexikografické třídění
 
+#### 8) Datová struktura pro reprezentaci řídkých matic např. formát CSR 
+(násobení matice a vektoru, násobení skalární hodnotou, násobení dvou matic, součet dvou matic, transpozice matice, změna (načtení) libovolného prvku matice, načtení matice ze souboru a její výpis do souboru)
 
 Bude upřesněno
 
