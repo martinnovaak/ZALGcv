@@ -4,7 +4,8 @@
 ### [1. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv1) Lineární kontejnery (spojový seznam, [vektor](https://gist.github.com/martinnovaak/7df4e37a710844ebd30d5d87329d9642), obousměrná fronta) a adaptéry ([zásobník, fronta](https://gist.github.com/martinnovaak/6617749869d7549c138074477d40eee3) a prioritní fronta)
 ### [2. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv2) Binární vyhledávací stromy - rekurzivní implementace
 ### [3. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv3) Binární vyhledávací stromy - iterativní implementace, výpis stromu do konzole, (iterátor stromu)
-### 4. cvičení Hešovací tabulky
+### [4. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv4) Hešovací tabulky
+### 5. cvičení Reprezentace grafů - Hledání nejkratší cesty v grafu
 
 ## Podmínky udělení zápočtu
 Může být později pozměněno / doplněno
@@ -65,6 +66,8 @@ MineSweeper (Flood Fill algorithm)
 [Binární strom pro ukládání klíčů](https://gist.github.com/martinnovaak/23dfe3af1849e8882fe199801d9f3774)
 
 [Binární strom jako slovník (ukládání dvojic klíč-hodnota)](https://gist.github.com/martinnovaak/9351e3167d2ecfba1fa11d9722ca6357)
+
+[Šablonová implementace hešové tabulky](https://gist.github.com/martinnovaak/be863bb6e863d38674db65438d4f6cda)
 
 ## Užitečné gisty a odkazy
 
