@@ -71,6 +71,8 @@ MineSweeper (Flood Fill algorithm)
 
 [Šablonová implementace hešové tabulky](https://gist.github.com/martinnovaak/be863bb6e863d38674db65438d4f6cda)
 
+[Rozděl a panuj zdrojové soubory](https://gist.github.com/martinnovaak/4d06aafa93f49ee8ff87efd430e296d6)
+
 ## Užitečné gisty a odkazy
 
 [Gist na to jak v c++ generovat náhodné čísla a měřit čas trvání funkcí.](https://gist.github.com/martinnovaak/c05999dc306db538b7c98974cca93aa8)
