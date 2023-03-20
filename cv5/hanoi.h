@@ -1,5 +1,5 @@
-#ifndef DEVIDE_AND_CONQUER_HANOI_H
-#define DEVIDE_AND_CONQUER_HANOI_H
+#ifndef HANOI_H
+#define HANOI_H
 
 #include <vector>
 #include <iostream>
@@ -64,4 +64,4 @@ public:
 };
 
 
-#endif //DEVIDE_AND_CONQUER_HANOI_H
+#endif //HANOI_H
