@@ -40,6 +40,7 @@ Zápočtový program nahrajete do repozitáře (Github, Gitlab, Bitbucket, ...).
 #### 8) Datová struktura pro reprezentaci řídkých matic např. formát CSR 
 (násobení matice a vektoru, násobení skalární hodnotou, násobení dvou matic, součet dvou matic, transpozice matice, změna (načtení) libovolného prvku matice, načtení matice ze souboru a její výpis do souboru)
 
+
 Bude upřesněno
 
 ### Grafové algoritmy
@@ -61,6 +62,8 @@ Počítání významných konstant s libovolnou přesností. (π, e, ln2)
 ### Problémy řešené přes metody návrhů algoritmů
 
 MineSweeper (Flood Fill algorithm)
+
+[Move List](https://www.chessprogramming.org/Move_List)
 
 ## Gisty na programy z hodin
 
