@@ -48,13 +48,13 @@ void build_perfect_tree(tree & t, const std::vector<int> & arr, int l, int r)
 void build_perfect_tree_stack(tree & t, const std::vector<int> & arr)
 {
     int mid;
-    //std::stack<std::pair<int, int>> z;
-    std::queue<std::pair<int, int>> z;
+    std::stack<std::pair<int, int>> z; // rozdel a panuj
+    //std::queue<std::pair<int, int>> z; // dynamicky
     z.emplace(0, arr.size()-1);
 
     while(!z.empty())
     {
-        auto [l, r] = z.front();
+        auto [l, r] = z.top(); // z.front(); // v pripade pouziti fronty
         z.pop();
         if(l > r) continue;
         mid = (l + r) / 2;
