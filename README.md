@@ -45,13 +45,13 @@ Bude upřesněno
 
 ### Grafové algoritmy
 
-Minimální kostra grafu - Bude upřesněno
+#### Minimální kostra grafu - ZAMLUVENO
 
-Obarvování grafu - Bude upřesněno
+#### Obarvování grafu - Bude upřesněno
 
-Maximální tok v síti - Bude upřesněno
+#### Maximální tok v síti - Bude upřesněno
 
-Nejkratší cesta v grafu - Bude upřesněno
+#### Nejkratší cesta v grafu - A*
 
 ### Seminumerické algoritmy a datové struktury
 
