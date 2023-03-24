@@ -47,9 +47,9 @@ Bude upřesněno
 
 #### Minimální kostra grafu - ZAMLUVENO
 
-#### Obarvování grafu - Bude upřesněno
+#### Obarvování grafu - Backtracking
 
-#### Maximální tok v síti - Bude upřesněno
+#### Maximální tok v síti - Ford-Fulkerson - Hladový algoritmus
 
 #### Nejkratší cesta v grafu - A*
 
