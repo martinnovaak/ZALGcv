@@ -66,7 +66,7 @@ MineSweeper Semínkový algoritmus (Flood fill)
 
 Sudoku - Backtracking
 
-Sudoku - Simulované žíhání
+Sudoku - Monte Carlo - Simulované žíhání
 
 [Move List](https://www.chessprogramming.org/Move_List)
 
