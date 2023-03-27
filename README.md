@@ -51,7 +51,7 @@ Bude upřesněno
 
 #### Maximální tok v síti - Ford-Fulkerson - Hladový algoritmus
 
-#### Nejkratší cesta v grafu - A*
+#### Nejkratší cesta v grafu - A* - ZAMLUVENO
 
 ### Seminumerické algoritmy a datové struktury
 
