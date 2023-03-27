@@ -62,7 +62,11 @@ Počítání významných konstant s libovolnou přesností. (π, e, ln2)
 
 ### Problémy řešené přes metody návrhů algoritmů
 
-MineSweeper (Flood Fill algorithm)
+MineSweeper Semínkový algoritmus (Flood fill)
+
+Sudoku - Backtracking
+
+Sudoku - Simulované žíhání
 
 [Move List](https://www.chessprogramming.org/Move_List)
 
