@@ -6,7 +6,8 @@
 ### [3. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv3) Binární vyhledávací stromy - iterativní implementace, výpis stromu do konzole, (iterátor stromu)
 ### [4. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv4) Hešovací tabulky
 ### [5. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv5) Rozděl a panuj - binární vyhledávání, konstrukce dokonalého BVS, Hanojské věže
-### 6. cvičení Reprezentace grafů - Hledání nejkratší cesty v grafu
+### [6. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv6) Reprezentace grafů - Hledání nejkratší cesty v grafu
+### 7. cvičení Stavový prostor, backtrcking, reprezentace šachovnic v počítači
 
 ## Podmínky udělení zápočtu
 Může být později pozměněno / doplněno
