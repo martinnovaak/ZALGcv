@@ -11,8 +11,8 @@
 ### 8. cvičení Nahrazování rekurze
 ### 9. cvičení Třídění O(n^2) algoritmy
 ### 10. cvičení Třídění O(nlogn) algoritmy
-### 11. cvičení Vyhodnocování řetězce
-### 12. cvičení Vyhodnocování řetězce
+### 11. cvičení Zpracování aritmetického výrazu
+### 12. cvičení Zpracování aritmetického výrazu
 ### 13. cvičení Seminumerické algoritmy
 
 ## Podmínky udělení zápočtu
