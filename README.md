@@ -70,7 +70,7 @@ Počítání významných konstant s libovolnou přesností. (π, e, ln2)
 
 MineSweeper Semínkový algoritmus (Flood fill)
 
-Sudoku - Backtracking (+ nějaká heuristika)
+Sudoku - Backtracking (+ nějaká heuristika např. MRV - Minimum Remaining Values)
 
 Sudoku - Monte Carlo - Simulované žíhání
 
