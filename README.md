@@ -90,6 +90,9 @@ Sudoku - Monte Carlo - Simulované žíhání
 
 [Rozděl a panuj zdrojové soubory](https://gist.github.com/martinnovaak/4d06aafa93f49ee8ff87efd430e296d6)
 
+[Backtracking s rekurzemi](https://gist.github.com/martinnovaak/47ab6da0b7c43935cb9a754959c2deec)
+
+
 ## Užitečné gisty a odkazy
 
 [Gist na to jak v c++ generovat náhodné čísla a měřit čas trvání funkcí.](https://gist.github.com/martinnovaak/c05999dc306db538b7c98974cca93aa8)
