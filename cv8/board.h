@@ -16,18 +16,6 @@ private:
     std::vector<int> queen_moves;
     int n; // n x n
 
-    bool is_safe(int square) {
-        for(auto move: queen_moves) {
-            int new_square = square + move;
-            while(mailbox[new_square] == 0) {
-                new_square += move;
-            }
-            if(mailbox[new_square] == 1)
-                return false;
-        }
-        return true;
-    }
-
     bool knights_tour(int square) {
         mailbox[square] = 1;
         std::stack<std::tuple<int, int>> z; // zasobnik, v kterem je ulozena prochazka (policko, index tahu z knight_moves)
