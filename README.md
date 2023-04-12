@@ -1,7 +1,7 @@
 # ZALGcv
 
 ## Obsah cvičení
-### [1. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv1) Lineární kontejnery (spojový seznam, [vektor](https://gist.github.com/martinnovaak/7df4e37a710844ebd30d5d87329d9642), obousměrná fronta) a adaptéry ([zásobník, fronta](https://gist.github.com/martinnovaak/6617749869d7549c138074477d40eee3) a prioritní fronta)
+### [1. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv1) Lineární kontejnery ([spojový seznam](https://gist.github.com/martinnovaak/e66c08beaef23119056567141b50ebc2), [vektor](https://gist.github.com/martinnovaak/7df4e37a710844ebd30d5d87329d9642), obousměrná fronta) a adaptéry ([zásobník, fronta](https://gist.github.com/martinnovaak/6617749869d7549c138074477d40eee3) a prioritní fronta)
 ### [2. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv2) Binární vyhledávací stromy - rekurzivní implementace
 ### [3. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv3) Binární vyhledávací stromy - iterativní implementace, výpis stromu do konzole, (iterátor stromu)
 ### [4. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv4) Hešovací tabulky
