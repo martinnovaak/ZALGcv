@@ -92,6 +92,8 @@ Sudoku - Monte Carlo - Simulované žíhání
 
 [Backtracking s rekurzemi](https://gist.github.com/martinnovaak/47ab6da0b7c43935cb9a754959c2deec)
 
+[Obousměrně zřetězený spojový seznam](https://gist.github.com/martinnovaak/e66c08beaef23119056567141b50ebc2)
+
 
 ## Užitečné gisty a odkazy
 
