@@ -9,7 +9,7 @@
 ### [6. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv6) Reprezentace grafů - Hledání nejkratší cesty v grafu
 ### [7. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv7) Průzkum stavového prostoru, backtracking, různé reprezentace šachovnic v počítači
 ### [8. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv8) Nahrazování rekurze
-### 9. cvičení Třídění O(n^2) algoritmy
+### [9. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv9) Třídění O(n^2) algoritmy
 ### 10. cvičení Třídění O(nlogn) algoritmy
 ### 11. cvičení Zpracování aritmetického výrazu
 ### 12. cvičení Zpracování aritmetického výrazu
