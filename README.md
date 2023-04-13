@@ -68,9 +68,9 @@ Počítání významných konstant s libovolnou přesností. (π, e, ln2)
 
 ### Problémy řešené přes metody návrhů algoritmů
 
-MineSweeper Semínkový algoritmus (Flood fill)
+#### MineSweeper Semínkový algoritmus (Flood fill)
 
-Sudoku - Backtracking (+ nějaká [heuristika](https://www.cs.rochester.edu/u/brown/242/assts/termprojs/Sudoku09.pdf) např. MRV - Minimum Remaining Values)
+#### Sudoku - Backtracking (+ nějaká [heuristika](https://www.cs.rochester.edu/u/brown/242/assts/termprojs/Sudoku09.pdf) např. MRV - Minimum Remaining Values)
 
 Sudoku - Monte Carlo - Simulované žíhání
 
