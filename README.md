@@ -10,8 +10,8 @@
 ### [7. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv7) Průzkum stavového prostoru, backtracking, různé reprezentace šachovnic v počítači
 ### [8. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv8) Nahrazování rekurze
 ### [9. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv9) Třídění O(n^2) algoritmy
-### 10. cvičení Třídění O(nlogn) algoritmy
-### 11. cvičení Zpracování aritmetického výrazu
+### [10. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv10) Třídění O(nlogn) algoritmy
+### 11. cvičení Třídění Quick sort
 ### 12. cvičení Zpracování aritmetického výrazu
 ### 13. cvičení Seminumerické algoritmy
 
