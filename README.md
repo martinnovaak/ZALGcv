@@ -74,8 +74,6 @@ Počítání významných konstant s libovolnou přesností. (π, e, ln2)
 
 Sudoku - Monte Carlo - Simulované žíhání
 
-[Move List](https://www.chessprogramming.org/Move_List)
-
 ## Gisty na programy z hodin
 
 [Šablonové implementace Fronty a Zásobníku](https://gist.github.com/martinnovaak/6617749869d7549c138074477d40eee3)
