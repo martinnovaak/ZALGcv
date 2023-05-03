@@ -60,6 +60,10 @@ Bude upřesněno
 
 #### Nejkratší cesta v grafu - A* - ZAMLUVENO
 
+### Třídění
+
+#### [Bitový Radix sort](http://codercorner.com/RadixSortRevisited.htm)
+
 ### Seminumerické algoritmy a datové struktury
 
 Knihovna pro počítání s velkými čísly - Bude upřesněno
