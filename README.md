@@ -38,7 +38,7 @@ Zápočtový program nahrajete do repozitáře (Github, Gitlab, Bitbucket, ...).
 
 ### Nelineární datové struktury - stromy
 
-#### 5) Fibonacciho halda
+#### 5) Binomická halda
 
 #### 6) B-Tree (std::map přes B-Tree)
 
@@ -62,7 +62,7 @@ Bude upřesněno
 
 ### Třídění
 
-#### [Bitový Radix sort](http://codercorner.com/RadixSortRevisited.htm)
+#### [Bitový Radix sort](http://codercorner.com/RadixSortRevisited.htm) a Topologické třídění
 
 ### Seminumerické algoritmy a datové struktury
 
