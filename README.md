@@ -76,8 +76,6 @@ Počítání významných konstant s libovolnou přesností. (π, e, ln2)
 
 #### Sudoku - Backtracking (+ nějaká [heuristika](https://www.cs.rochester.edu/u/brown/242/assts/termprojs/Sudoku09.pdf) např. MRV - Minimum Remaining Values) - ZAMLUVENO
 
-Sudoku - Monte Carlo - Simulované žíhání
-
 ## Gisty na programy z hodin
 
 [Šablonové implementace Fronty a Zásobníku](https://gist.github.com/martinnovaak/6617749869d7549c138074477d40eee3)
