@@ -11,9 +11,9 @@
 ### [8. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv8) Nahrazování rekurze
 ### [9. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv9) Třídění O(n^2) algoritmy
 ### [10. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv10) Třídění O(nlogn) algoritmy
-### 11. cvičení Třídění Quick sort
-### 12. cvičení Zpracování aritmetického výrazu
-### 13. cvičení Seminumerické algoritmy
+### [11. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv11) Třídění Quick sort
+### [12. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv12) Zpracování aritmetického výrazu
+### [13. cvičení](https://github.com/martinnovaak/ZALGcv/tree/main/cv13) Seminumerické algoritmy
 
 ## Podmínky udělení zápočtu
 Může být později pozměněno / doplněno
