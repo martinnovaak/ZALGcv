@@ -66,9 +66,8 @@ Bude upřesněno
 
 ### Seminumerické algoritmy a datové struktury
 
-Knihovna pro počítání s velkými čísly - Bude upřesněno
-
-Počítání významných konstant s libovolnou přesností. (π, e, ln2)
+### Knihovna pro počítání s velkými čísly
+### Počítání významných konstant s libovolnou přesností. (π, e, ln2)
 
 ### Problémy řešené přes metody návrhů algoritmů
 
