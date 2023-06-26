@@ -58,7 +58,7 @@ Bude upřesněno
 
 #### Maximální tok v síti - Ford-Fulkerson - Hladový algoritmus
 
-#### Nejkratší cesta v grafu - A* - ZAMLUVENO
+#### [Nejkratší cesta v grafu - A*](https://github.com/kkaja13/Astar/tree/main) - VYŘEŠENO
 
 ### Třídění
 
