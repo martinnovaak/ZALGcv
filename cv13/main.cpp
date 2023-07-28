@@ -2,7 +2,7 @@
 #include <vector>
 #include <string>
 
-const size_t N = 30;
+const size_t N = 40;
 
 class BigInt {
 private:
