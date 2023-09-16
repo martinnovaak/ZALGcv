@@ -32,7 +32,7 @@ Zápočtový program nahrajete do repozitáře (Github, Gitlab, Bitbucket, ...).
 
 ### Nelineární datové struktury - Vyvážené binární vyhledávací stromy 
 
-#### 3) AVL Tree (std::map přes AVL) - ZAMLUVENO
+#### 3) [AVL Tree](https://github.com/matkcz/matkcz/tree/AVL-strom) - VYŘEŠENO
 
 #### 4) Red-Black Tree (std::map přes RB) - ZAMLUVENO
 
